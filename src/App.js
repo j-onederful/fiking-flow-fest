@@ -1,8 +1,8 @@
 
 import './App.css';
-import Wonjune from 'Wonjune'
-import Jack from 'Jack'
-import Billy from 'Billy'
+import Wonjune from './Wonjune'
+import Jack from './Jack'
+import Billy from './Billy'
 
 function App() {
   return (
